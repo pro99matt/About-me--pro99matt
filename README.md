@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pro99matt
 - 👀 I’m interested in videogames and mobile app
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning rust 🦀
 - 💞️ I’m looking to gain experience 
 <!---
 - 📫 How to reach me ...
